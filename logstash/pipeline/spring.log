@@ -1,0 +1,37 @@
+[2023-02-08 20:56:19,417] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-4] [30] [INFO ] The request will do
+[2023-02-08 20:56:19,441] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-4] [31] [INFO ] Monitoring Microsrervices with Prometheus and Grafana
+[2023-02-08 20:56:20,587] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-6] [30] [INFO ] The request will do
+[2023-02-08 20:56:20,588] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-6] [31] [INFO ] Monitoring Microsrervices with Prometheus and Grafana
+[2023-02-08 20:56:21,698] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-5] [30] [INFO ] The request will do
+[2023-02-08 20:56:21,699] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-5] [31] [INFO ] Monitoring Microsrervices with Prometheus and Grafana
+[2023-02-08 21:04:40,100] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-8080-exec-8] [207] [WARN ] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+[2023-02-08 21:08:56,268] [org.springframework.boot.StartupInfoLogger] [main] [51] [INFO ] Starting MonitoringMicroservicesApplication using Java 18 with PID 23332 (E:\WORK\Monitoring_Microservices\target\classes started by KEN20950 in E:\WORK\Monitoring_Microservices)
+[2023-02-08 21:08:56,272] [org.springframework.boot.SpringApplication] [main] [630] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2023-02-08 21:08:57,430] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2023-02-08 21:08:57,437] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2023-02-08 21:08:57,438] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2023-02-08 21:08:57,438] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-02-08 21:08:57,524] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2023-02-08 21:08:57,525] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [291] [INFO ] Root WebApplicationContext: initialization completed in 1180 ms
+[2023-02-08 21:08:58,041] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [main] [58] [INFO ] Exposing 1 endpoint(s) beneath base path '/actuator'
+[2023-02-08 21:08:58,080] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2023-02-08 21:08:58,105] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2023-02-08 21:08:58,117] [org.springframework.boot.StartupInfoLogger] [main] [57] [INFO ] Started MonitoringMicroservicesApplication in 2.23 seconds (process running for 3.149)
+[2023-02-08 21:09:17,387] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-02-08 21:09:17,388] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2023-02-08 21:09:17,390] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 2 ms
+[2023-02-08 21:09:17,434] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-2] [30] [INFO ] The request will do
+[2023-02-08 21:09:17,435] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-2] [31] [INFO ] Good request body
+[2023-02-08 21:09:18,578] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-3] [30] [INFO ] The request will do
+[2023-02-08 21:09:18,579] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-3] [31] [INFO ] Good request body
+[2023-02-08 21:09:25,716] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-8080-exec-4] [207] [WARN ] Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public org.springframework.http.ResponseEntity<java.lang.String> com.kcbgroup.monitoring_microservices.controller.createLogsController.createLogs(java.lang.String)]
+[2023-02-08 21:09:29,407] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-8080-exec-6] [207] [WARN ] Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public org.springframework.http.ResponseEntity<java.lang.String> com.kcbgroup.monitoring_microservices.controller.createLogsController.createLogs(java.lang.String)]
+[2023-02-08 21:09:49,763] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-8080-exec-8] [207] [WARN ] Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public org.springframework.http.ResponseEntity<java.lang.String> com.kcbgroup.monitoring_microservices.controller.createLogsController.createLogs(java.lang.String)]
+[2023-02-08 21:10:04,327] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-10] [18] [INFO ] Monitoring Microsrervices with Prometheus and Grafana
+[2023-02-08 21:10:04,328] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-10] [19] [INFO ] Get request
+[2023-02-08 21:10:05,244] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-1] [18] [INFO ] Monitoring Microsrervices with Prometheus and Grafana
+[2023-02-08 21:10:05,245] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-1] [19] [INFO ] Get request
+[2023-02-08 21:10:06,035] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-2] [18] [INFO ] Monitoring Microsrervices with Prometheus and Grafana
+[2023-02-08 21:10:06,035] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-2] [19] [INFO ] Get request
+[2023-02-08 21:14:11,839] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-4] [18] [INFO ] Monitoring Microsrervices with Prometheus and Grafana
+[2023-02-08 21:14:11,855] [com.kcbgroup.monitoring_microservices.controller.createLogsController] [http-nio-8080-exec-4] [19] [INFO ] Get request
